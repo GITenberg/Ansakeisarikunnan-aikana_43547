@@ -22,6 +22,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
     - http://en.wikipedia.org/wiki/Émile_Zola
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43547#Ansakeisarikunnan-aikana
 gutenberg_issued: '2013-08-24'
 gutenberg_type: Text
 identifiers:
